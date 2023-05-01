@@ -1,2 +1,4 @@
-# GoLangUrlShortner
- inspired by bitly this crud project shortnes url
+# Goly, The Go URL Shortener
+
+
+
